@@ -7,20 +7,20 @@ h1{
     width:550px;
     display:flex;
     align-items:center; 
-     background: linear-gradient(
+    /* background: linear-gradient(
     to bottom,
     #DC143C,
     #7A1025,
     #1A1A1A,
     #000000
 );
-color: #D3D3D3;
-    /* background-color:white;
+color: #D3D3D3;*/
+    background-color:white;
 
-    transition: background-color 0.5s ease; */
+    transition: background-color 0.5s ease; 
 }
 
-/* .container:hover{
+.container:hover{
     background: linear-gradient(
     to bottom,
     #DC143C,
@@ -29,7 +29,7 @@ color: #D3D3D3;
     #000000
 );
 color:white;
-} */
+} 
 
 
 body{
