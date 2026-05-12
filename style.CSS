@@ -1,0 +1,44 @@
+h1{
+    text-align:center;
+}
+.container{
+    border:2px solid black;
+    height:600px;
+    width:550px;
+    display:flex;
+    align-items:center; 
+     background: linear-gradient(
+    to bottom,
+    #DC143C,
+    #7A1025,
+    #1A1A1A,
+    #000000
+);
+color: #D3D3D3;
+    /* background-color:white;
+
+    transition: background-color 0.5s ease; */
+}
+
+/* .container:hover{
+    background: linear-gradient(
+    to bottom,
+    #DC143C,
+    #7A1025,
+    #1A1A1A,
+    #000000
+);
+color:white;
+} */
+
+
+body{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    margin-top:100px;
+
+}
+p{
+    text-align:center;
+}
